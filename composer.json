@@ -1,7 +1,7 @@
 {
     "require": {
-        "jakoch/phantomjs-installer": "2.1.1-p07",
-        "facebook/webdriver": "^1.2"
+        "fafan/phantomjs-installer": "2.1.14",
+        "facebook/webdriver": "1.4.0"
     },
     "config": {
         "preferred-install": "dist"
@@ -23,8 +23,8 @@
         ]
     },
     "extra": {
-        "jakoch/phantomjs-installer": {
-            "cdnurl": "https://github.com/Medium/phantomjs/"
+        "fafan/phantomjs-installer": {
+            "cdnurl": "https://github.com/fafan/phantomjs/"
         }
     }
 }
